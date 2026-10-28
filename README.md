@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, sou o Nuno Jerónimo</h1>
 
-<!--
-**nunojeronimodev/nunojeronimodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Full Stack Developer | 🇵🇹 Portugal</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Bem-vindo ao meu perfil GitHub! Aqui partilho os meus projetos, exploro novas tecnologias e continuo a evoluir como developer.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Sobre mim
+💡 Apaixonado por programação, tecnologia e desenvolvimento de software.
+🚀 Gosto de criar projetos e transformar ideias em soluções.
+🌱 Estou sempre a aprender e a explorar novas ferramentas e tecnologias.
+🎯 O meu objetivo é desenvolver aplicações eficientes, modernas e úteis.
+🛠️ Linguagens e ferramentas
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,git,github,docker,mysql&perline=6" alt="Linguagens e ferramentas" />
+</p>
+
+📊 Estatísticas do GitHub
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nunojeronimodev&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunojeronimodev&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
+</p>
+
+<p align="center">
+⭐ Obrigado pela visita! Fica à vontade para explorar os meus projetos.
+</p>
